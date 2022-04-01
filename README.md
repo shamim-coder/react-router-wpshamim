@@ -12,3 +12,5 @@
 7. add loading spinner.
 
 ### Live url: [https://real-soccer.netlify.app](https://real-soccer.netlify.app)
+
+## soccer api not live at this time :(
